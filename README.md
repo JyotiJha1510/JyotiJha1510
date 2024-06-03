@@ -20,12 +20,12 @@ A web-based application project in which one can easily read and fetch news acco
 The Todo App is a simple and efficient web application that allows users to manage their tasks with ease. Perfect for managing daily activities and projects, this app ensures your tasks are always up-to-date.
 
 - **Technologies**: HTML, CSS, JavaScript
-- **Repository**: [ToDo-App](https://github.com/JyotiJha1510/To-do-List.git)
+- **Repository**: [ToDo-List](https://github.com/JyotiJha1510/To-do-List.git)
 
 ### Tic Tac Toe
 Experience the classic game of Tic Tac Toe, crafted with HTML, CSS, and JavaScript for a sleek and interactive design. Challenge a friend or the computer to see who can claim victory!
 - **Technologies**: HTML, CSS and JavaScript
-- **Repository**: [Text-Editor](https://github.com/JyotiJha1510/Tic-Tac-Toe.git)
+- **Repository**: [Tic Tac Toe](https://github.com/JyotiJha1510/Tic-Tac-Toe.git)
 
 
 ## 🔗 Connect with Me
